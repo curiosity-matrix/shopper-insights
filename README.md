@@ -1,5 +1,5 @@
 # 🛍️ ShopperInsights: Retail Store & Sales Analytics Platform
-[🌐 View LIVE Dashboard here] (https://shopper-insights.onrender.com)
+[🌐 View LIVE Dashboard here](https://shopper-insights.onrender.com)
 
 > **An End-to-End Retail Customer Shopping Behavior & Sales Intelligence System (Indian Retail Market)**  
 > *Developed by [Ritika Singh](https://linkedin.com/in/ritika-singh-b07baa329) • B.Tech (AI & ML) @ SRMCEM*
