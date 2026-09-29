@@ -1,0 +1,51 @@
+Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (INR),Location,Season,Review Rating,Subscription Status,Previous Purchases,Payment Method,Frequency of Purchases
+CUST-1001,28,Female,Kurti,Clothing,1850.00,Noida,Spring,4.9,Yes,5,UPI,Weekly
+CUST-1002,45,Male,Sneakers,Footwear,3200.00,Delhi,Summer,4.8,No,2,Debit Card,Monthly
+CUST-1003,34,Female,Handbag,Accessories,2450.00,Lucknow,Winter,4.7,Yes,7,UPI,Fortnightly
+CUST-1004,52,Male,Jacket,Outerwear,4800.00,Mumbai,Fall,4.5,Yes,12,Credit Card,Quarterly
+CUST-1005,22,Male,T-Shirt,Clothing,750.00,Bengaluru,Summer,3.9,No,1,Cash,Weekly
+CUST-1006,31,Female,Sandals,Footwear,1250.00,Noida,Spring,4.2,No,4,UPI,Monthly
+CUST-1007,60,Female,Dupatta,Accessories,650.00,Jaipur,Winter,4.6,Yes,9,Net Banking,Fortnightly
+CUST-1008,29,Male,Coat,Outerwear,5200.00,Delhi,Fall,,Yes,6,Credit Card,Quarterly
+CUST-1009,41,Female,Saree,Clothing,3800.00,Lucknow,Spring,4.8,Yes,8,UPI,Weekly
+CUST-1010,38,Male,Boots,Footwear,3950.00,Pune,Winter,4.4,No,3,Debit Card,Monthly
+CUST-1011,25,Female,Sunglasses,Accessories,1100.00,Noida,Summer,4.1,No,2,UPI,Weekly
+CUST-1012,49,Male,Hoodie,Clothing,2200.00,Hyderabad,Fall,4.3,Yes,11,Credit Card,Monthly
+CUST-1013,33,Female,Juttis,Footwear,1650.00,Delhi,Spring,4.7,Yes,5,UPI,Quarterly
+CUST-1014,56,Male,Cardigan,Outerwear,2800.00,Lucknow,Winter,4.0,No,4,Cash,Annually
+CUST-1015,27,Female,Jeans,Clothing,2100.00,Mumbai,Summer,4.5,Yes,6,UPI,Weekly
+CUST-1016,39,Male,Backpack,Accessories,1850.00,Bengaluru,Fall,4.6,No,3,Net Banking,Monthly
+CUST-1017,44,Female,Blazer,Outerwear,4600.00,Delhi,Winter,4.9,Yes,14,Credit Card,Quarterly
+CUST-1018,23,Male,Shorts,Clothing,850.00,Noida,Summer,,No,1,UPI,Weekly
+CUST-1019,36,Female,Formal Shoes,Footwear,3400.00,Lucknow,Spring,4.7,Yes,7,Debit Card,Fortnightly
+CUST-1020,51,Male,Leather Belt,Accessories,750.00,Mumbai,Winter,4.2,No,2,Cash,Monthly
+CUST-1021,30,Female,Shirt,Clothing,1450.00,Delhi,Fall,4.4,Yes,5,UPI,Weekly
+CUST-1022,47,Male,Sandals,Footwear,1150.00,Hyderabad,Summer,4.1,No,3,Debit Card,Quarterly
+CUST-1023,62,Female,Raincoat,Outerwear,2900.00,Pune,Spring,4.8,Yes,10,UPI,Monthly
+CUST-1024,26,Male,T-Shirt,Clothing,650.00,Jaipur,Summer,3.8,No,1,Cash,Weekly
+CUST-1025,35,Female,Jewelry,Accessories,3100.00,Lucknow,Winter,4.9,Yes,8,UPI,Fortnightly
+CUST-1026,42,Male,Sneakers,Footwear,3500.00,Noida,Spring,4.6,Yes,6,Credit Card,Monthly
+CUST-1027,55,Female,Jacket,Outerwear,4900.00,Delhi,Fall,4.7,Yes,15,Credit Card,Quarterly
+CUST-1028,21,Female,Kurti,Clothing,1250.00,Mumbai,Summer,4.5,No,2,UPI,Weekly
+CUST-1029,37,Male,Watch,Accessories,2600.00,Bengaluru,Spring,4.0,No,4,Debit Card,Monthly
+CUST-1030,50,Female,Boots,Footwear,4100.00,Pune,Winter,4.8,Yes,9,Credit Card,Fortnightly
+CUST-1031,32,Male,Hoodie,Clothing,1950.00,Lucknow,Fall,4.3,Yes,5,UPI,Weekly
+CUST-1032,48,Female,Overcoat,Outerwear,5800.00,Delhi,Winter,4.9,Yes,11,Net Banking,Quarterly
+CUST-1033,29,Male,Jeans,Clothing,1900.00,Noida,Spring,4.4,No,3,UPI,Weekly
+CUST-1034,40,Female,Handbag,Accessories,3400.00,Mumbai,Summer,,Yes,7,Credit Card,Monthly
+CUST-1035,53,Male,Formal Shoes,Footwear,3800.00,Bengaluru,Fall,4.7,Yes,13,Debit Card,Quarterly
+CUST-1036,24,Female,Top,Clothing,1150.00,Lucknow,Spring,4.6,No,2,UPI,Weekly
+CUST-1037,38,Male,Belt,Accessories,850.00,Jaipur,Summer,4.1,No,4,Cash,Monthly
+CUST-1038,61,Female,Shawl,Outerwear,3200.00,Delhi,Winter,4.5,Yes,10,UPI,Fortnightly
+CUST-1039,33,Male,Sneakers,Footwear,2950.00,Hyderabad,Spring,4.4,Yes,6,Debit Card,Weekly
+CUST-1040,46,Female,Shirt,Clothing,1550.00,Pune,Fall,4.2,No,5,UPI,Monthly
+CUST-1041,27,Male,Shorts,Clothing,890.00,Noida,Summer,3.9,No,1,UPI,Weekly
+CUST-1042,54,Female,Earrings,Accessories,2200.00,Delhi,Winter,4.9,Yes,12,Credit Card,Quarterly
+CUST-1043,31,Male,Loafers,Footwear,2750.00,Mumbai,Fall,4.6,Yes,4,UPI,Monthly
+CUST-1044,43,Female,Jacket,Outerwear,4400.00,Lucknow,Winter,4.7,Yes,8,Net Banking,Fortnightly
+CUST-1045,28,Male,T-Shirt,Clothing,720.00,Jaipur,Summer,4.0,No,2,Cash,Weekly
+CUST-1046,59,Female,Scarf,Accessories,780.00,Bengaluru,Spring,4.5,Yes,7,UPI,Monthly
+CUST-1047,35,Male,Sandals,Footwear,1450.00,Hyderabad,Fall,4.3,Yes,5,Debit Card,Quarterly
+CUST-1048,49,Female,Saree,Clothing,4200.00,Noida,Spring,4.8,Yes,11,Credit Card,Weekly
+CUST-1049,22,Male,Sunglasses,Accessories,1250.00,Delhi,Summer,4.1,No,1,UPI,Weekly
+CUST-1050,37,Female,Raincoat,Outerwear,2600.00,Mumbai,Winter,,Yes,6,UPI,Monthly
